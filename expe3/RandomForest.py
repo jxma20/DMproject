@@ -1,7 +1,7 @@
 import sklearn.ensemble
 from sklearn.model_selection import train_test_split
 from sklearn import datasets
-import Metalearner as ml
+import Metalearner as ml # 这是我自己实现的回归决策树类
 import numpy as np
 import matplotlib.pyplot as plt
 
